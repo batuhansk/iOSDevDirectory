@@ -1555,6 +1555,13 @@
             "site_url": "https://dancounsell.com",
             "feed_url": "https://dancounsell.com/blog/feed/",
             "twitter_url": "https://twitter.com/dancounsell"
+          },
+          {
+            "title": "Incipia",
+            "author": "Gabe Kwakyi",
+            "site_url": "https://incipia.co/posts/",
+            "feed_url": "NO FEED",
+            "twitter_url": "https://twitter.com/incipiaco"
           }
         ]
       },

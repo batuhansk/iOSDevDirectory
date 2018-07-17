@@ -15,16 +15,22 @@
             "feed_url": "https://developer.apple.com/news/rss/news.rss"
           },
           {
-            "title": "Machine Learning Journal",
+            "title": "Design News",
             "author": "Apple",
-            "site_url": "https://machinelearning.apple.com/",
-            "feed_url": "https://machinelearning.apple.com/feed.xml"
+            "site_url": "https://developer.apple.com/design/whats-new/",
+            "feed_url": "feed://developer.apple.com/design/whats-new/rss/whats-new.rss"
           },
           {
             "title": "Official Swift Blog",
             "author": "Apple",
             "site_url": "https://developer.apple.com/swift/blog/",
             "feed_url": "https://developer.apple.com/swift/blog/news.rss"
+          },
+          {
+            "title": "Machine Learning Journal",
+            "author": "Apple",
+            "site_url": "https://machinelearning.apple.com/",
+            "feed_url": "https://machinelearning.apple.com/feed.xml"
           }
         ]
       },
@@ -463,7 +469,7 @@
             "title": "DazeEnd",
             "author": "Charles Perry",
             "site_url": "https://dazeend.org/",
-            "feed_url": "https://dazeend.org/feed/",
+            "feed_url": "https://dazeend.org/feed/?cat=-12",
             "twitter_url": "https://twitter.com/dazeend"
           },
           {
@@ -776,6 +782,13 @@
             "twitter_url": "https://twitter.com/petermolnar_hu"
           },
           {
+            "title": "Learning Swift",
+            "author": "Leo Dion",
+            "site_url": "https://learningswift.brightdigit.com",
+            "feed_url": "https://learningswift.brightdigit.com/feed/",
+            "twitter_url": "https://twitter.com/leogdion"
+          },
+          {
             "title": "Landon Fuller's Blog",
             "author": "Landon Fuller",
             "site_url": "http://landonf.org",
@@ -846,14 +859,6 @@
             "twitter_url": "https://twitter.com/maniacdev"
           },
           {
-            "title": "Manton Reece's Blog",
-            "author": "Manton Reece",
-            "site_url": "https://manton.org/",
-            "feed_url": "https://manton.org/essays.xml",
-            "twitter_url": "https://twitter.com/manton2",
-            "microblog_url": "https://micro.blog/manton"
-          },
-          {
             "title": "Marc Palmer's Blog",
             "author": "Marc Palmer",
             "site_url": "https://marcpalmer.net/category/ios/",
@@ -893,6 +898,13 @@
             "site_url": "https://martinmitrevski.com/",
             "feed_url": "https://martinmitrevski.com/feed/",
             "twitter_url": "https://twitter.com/mitrevski"
+          },
+          {
+            "title": "Matt Diephouse's Blog",
+            "author": "Matt Diephouse",
+            "site_url": "http://matt.diephouse.com/swift/",
+            "feed_url": "http://matt.diephouse.com/swift/index.xml",
+            "twitter_url": "https://twitter.com/mdiep"
           },
           {
             "title": "Matteo Manferdini's Blog",
@@ -937,6 +949,13 @@
             "twitter_url": "https://twitter.com/mokagio"
           },
           {
+            "title": "MultiColourPixel",
+            "author": "Eddy Gammon",
+            "site_url": "https://multicolourpixel.com/",
+            "feed_url": "https://multicolourpixel.com/rss/",
+            "twitter_url": "https://twitter.com/multicolourpxl"
+          },
+          {
             "title": "Natasha The Robot",
             "author": "Natasha Murashev",
             "site_url": "https://www.natashatherobot.com",
@@ -958,11 +977,25 @@
             "twitter_url": "https://twitter.com/mikeash"
           },
           {
+            "title": "NSHipster",
+            "author": "NSHipster",
+            "site_url": "https://nshipster.com",
+            "feed_url": "https://nshipster.com/feed.xml",
+            "twitter_url": "https://twitter.com/nshipster"
+          },
+          {
             "title": "Objective-See's Blog",
             "author": "Patrick Wardle",
             "site_url": "https://www.objective-see.com/blog.html",
             "feed_url": "https://objective-see.com/rss.xml",
             "twitter_url": "https://twitter.com/objective_see"
+          },
+          {
+            "title": "Objective Tidbits",
+            "author": "Ilter Cengiz",
+            "site_url": "https://objectivetidbits.com",
+            "feed_url": "https://objectivetidbits.com/feed/",
+            "twitter_url": "https://twitter.com/objtidbits"
           },
           {
             "title": "Ole Begemann's Blog",
@@ -1082,6 +1115,13 @@
             "site_url": "https://rolandleth.com",
             "feed_url": "https://rolandleth.com/feed",
             "twitter_url": "https://twitter.com/rolandleth"
+          },
+          {
+            "title": "Roger Molas's Blog",
+            "author": "Roger Molas",
+            "site_url": "http://blog.rogermolas.com/",
+            "feed_url": "http://blog.rogermolas.com/index.xml",
+            "twitter_url": "https://twitter.com/roger_molas"
           },
           {
             "title": "Roy Marmelstein on Medium",
@@ -1534,6 +1574,13 @@
             "site_url": "http://www.useronboard.com/",
             "feed_url": "http://www.useronboard.com/rss/",
             "twitter_url": "https://twitter.com/samuelhulick"
+          },
+          {
+            "title": "Adam Wiggins' Blog",
+            "author": "Adam Wiggins",
+            "site_url": "https://medium.com/@hirodusk",
+            "feed_url": "https://medium.com/feed/@hirodusk",
+            "twitter_url": "https://twitter.com/hirodusk"
           }
         ]
       },
@@ -1653,6 +1700,13 @@
             "twitter_url": "https://twitter.com/blackpixel"
           },
           {
+            "title": "BrightDigit",
+            "author": "BrightDigit Team",
+            "site_url": "https://brightdigit.com/blog/",
+            "feed_url": "https://brightdigit.com/blog/feed/",
+            "twitter_url": "https://twitter.com/brightdigit"
+          },
+          {
             "title": "Bugfender Blog",
             "author": "Bugfender Team",
             "site_url": "https://bugfender.com/blog/",
@@ -1675,8 +1729,8 @@
           },
           {
             "title": "Flight School",
-            "author": "Mattt Thompson amd Lauren Mendez",
-            "site_url": "https://flight.school/articles/",
+            "author": "Mattt",
+            "site_url": "https://flight.school",
             "feed_url": "https://flight.school/feed.xml",
             "twitter_url": "https://twitter.com/flightdotschool"
           },
@@ -2037,6 +2091,12 @@
             "author": "Marco Arment and David Smith",
             "site_url": "https://www.relay.fm/radar",
             "feed_url": "https://www.relay.fm/radar/feed"
+          },
+          {
+            "title": "Waiting for Review",
+            "author": "Dave Nott and Dave Wood",
+            "site_url": "https://waitingforreview.com",
+            "feed_url": "https://waitingforreview.com/feed/podcast/"
           }
         ]
       },
@@ -2065,6 +2125,13 @@
             "site_url": "https://medium.com/@NilStack/",
             "feed_url": "https://medium.com/feed/@NilStack",
             "twitter_url": "https://twitter.com/NilStack"
+          },
+          {
+            "title": "Swift Sparks",
+            "author": "Alvin Varghese",
+            "site_url": "https://swiftsparks.com/",
+            "feed_url": "https://swiftsparks.com/feed.xml",
+            "twitter_url": "https://twitter.com/speaktoalvin"
           }
         ]
       },
@@ -2276,13 +2343,6 @@
             "twitter_url": "https://twitter.com/nshintio"
           },
           {
-            "title": "NSHipster",
-            "author": "Nate Cook, Mattt Thompson and friends",
-            "site_url": "http://nshipster.com",
-            "feed_url": "http://nshipster.com/feed.xml",
-            "twitter_url": "https://twitter.com/nshipster"
-          },
-          {
             "title": "NSProgrammer",
             "author": "Nolan O'Brien",
             "site_url": "http://nsprogrammer.com",
@@ -2377,8 +2437,8 @@
           {
             "title": "NSHipster中国",
             "author": "NSHipster中国",
-            "site_url": "http://nshipster.cn",
-            "feed_url": "http://nshipster.cn/feed.xml",
+            "site_url": "https://nshipster.cn",
+            "feed_url": "https://nshipster.cn/feed.xml",
             "weibo_url": "https://weibo.com/nshipster"
           },
           {
